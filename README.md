@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
-Chiwa mengucapkan makasih banyak dengan kalian yang udah membeli/menggunakan script ini,jangan lupa baca petunjuk dibawah untuk menggunakan bot
+Starter PHP untuk payment gateway menggunakan Midtrans
 
 ## Petunjuk penggunaan
 

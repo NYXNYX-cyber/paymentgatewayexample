@@ -49,5 +49,5 @@ DO_TOKEN=''
 ```
 
 ## Bug / Vuln Funding
-[![Contact](https://img.shields.io/badge/Contact-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283891278036)
-Chiwa mengapresiasi dan menghargai setiap issue yang dilaporkan,jadi jangan sungkan untuk melaporkan masalah yang ada demi menjaga script ini tetap terjaga
+[![Contact](https://img.shields.io/badge/Contact-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285161232384)
+NYX mengapresiasi dan menghargai setiap issue yang dilaporkan,jadi jangan sungkan untuk melaporkan masalah yang ada demi menjaga script ini tetap terjaga
